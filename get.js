@@ -5,9 +5,9 @@ const env = require('dotenv').config();
 var options = { method: 'GET',
   url: 'https://api.setlist.fm/rest/1.0/search/setlists',
   qs: 
-   { artistName: 'Pearl Jam',
+   { artistName: 'Eddie Vedder',
      cityName: 'Amsterdam',
-     year: '2014',
+     year: '2017',
     countryCode: 'NL',
      },
   headers: 
@@ -39,6 +39,4 @@ map(function(cnt,name){
 
 console.dir(sortedres.reverse());
 
-  // console.log(res);
-//   console.log(body);
 });
