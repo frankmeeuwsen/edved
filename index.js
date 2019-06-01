@@ -1,14 +1,76 @@
 const _=require('underscore');
+var testobj=
+[{
+    "sets":{
+        "set":[
+            {
+                "song":[
+                    {
+                        "name": "Tuolomne"
+                    },
+                    {
+                        "name": "Tuolomne1"
+                    },
+                    {
+                        "name": "Tuolomne2"
+                    },
+                    {
+                        "name": "Tuolomne3"
+                    },
+                ]
+            },
+            {
+                "encore":1,
+                "song":[
+                    {
+                        "name": "Tuolomne-encore"
+                    },
+                    {
+                        "name": "Tuolomne-encore1"
+                    },
+                    {
+                        "name": "Tuolomne-encore2"
+                    },
+                    {
+                        "name": "Tuolomne-encore3"
+                    },
+                ]
+            }
+
+        ]
+    }
+},
+{
+    "sets":{
+        "set":[
+            {
+                "song":[
+                    {
+                        "name": "Tuolomne"
+                    },
+                    {
+                        "name": "Tuolomne1a"
+                    },
+                    {
+                        "name": "Tuolomne2a"
+                    },
+                    {
+                        "name": "Tuolomne3a"
+                    },
+                ]
+            }
+        ]
+    }
+}]
 var obj = require("./data/amstotal.json");
-// console.log(obj[1].sets.set[0].song[2].name);
 
-// obj.forEach(function(element) {
-//     console.log('=======================');
-//     console.log(element.sets.set[0].song[0].name);
-//   });
+var res=_(obj).chain().
+    pluck('sets').
+    pluck('set').
+    flatten().
+    pluck('song').
+    flatten().
+    countBy('name').
+    value();
 
-  
-for(var i =0;i<obj.length;i++){
-        // console.log(_.each(obj[i].sets.set[0].song[0], function(data) { return data.name;}));
-        console.log(_.countBy(obj[i].sets.set[0].song, function(data) { return data.name;}));
-}
+    console.log(res);
