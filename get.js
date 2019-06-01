@@ -5,11 +5,11 @@ const env = require('dotenv').config();
 var options = { method: 'GET',
   url: 'https://api.setlist.fm/rest/1.0/search/setlists',
   qs: 
-   { artistName: 'Eddie Vedder',
-     cityName: 'Amsterdam',
-     year: '2017',
-    countryCode: 'NL',
-     },
+   {  artistName: 'Eddie Vedder',
+      cityName: 'Amsterdam',
+      year: '2017',
+      countryCode: 'NL',
+    },
   headers: 
    { Accept: 'application/json',
      'x-api-key': process.env.apikey } };
@@ -25,18 +25,16 @@ request(options, function (error, response, body) {
   pluck('song').
   flatten().
   countBy('name').
+  map(function(count,name){
+    return{
+      title: name,
+      count: count
+    }
+  }).
+  sortBy('count').
   value();
 
-var sortedres=_(res).chain().
-map(function(cnt,name){
-  return{
-    title: name,
-    count: cnt
-  }
-})
-.sortBy('count')
-.value();
-
-console.dir(sortedres.reverse());
+console.dir(res.reverse());
+console.dir(res.length+" unique songs in the setlists");
 
 });
