@@ -1,0 +1,389 @@
+{
+    "id": "3bfab8cc",
+    "versionId": "7b5b4e90",
+    "eventDate": "27-05-2017",
+    "lastUpdated": "2017-06-07T02:02:02.000+0000",
+    "artist": {
+        "mbid": "1a60d6dd-9d3e-40fc-a66d-3184f9ee0d61",
+        "tmid": 1197361,
+        "name": "Eddie Vedder",
+        "sortName": "Vedder, Eddie",
+        "disambiguation": "",
+        "url": "https://www.setlist.fm/setlists/eddie-vedder-6bd6a2e2.html"
+    },
+    "venue": {
+        "id": "23d574f7",
+        "name": "AFAS Live",
+        "city": {
+            "id": "2759794",
+            "name": "Amsterdam",
+            "state": "North Holland",
+            "stateCode": "07",
+            "coords": {
+                "lat": 52.373,
+                "long": 4.9
+            },
+            "country": {
+                "code": "NL",
+                "name": "Netherlands"
+            }
+        },
+        "url": "https://www.setlist.fm/venue/afas-live-amsterdam-netherlands-23d574f7.html"
+    },
+    "tour": {
+        "name": "2017 European Tour"
+    },
+    "sets": {
+        "set": [
+            {
+                "song": [
+                    {
+                        "name": "Tuolumne",
+                        "tape": true
+                    },
+                    {
+                        "name": "Long Road",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        }
+                    },
+                    {
+                        "name": "Trouble",
+                        "cover": {
+                            "mbid": "e2345fdf-2be7-47c5-a6dd-be64353ad134",
+                            "name": "Cat Stevens",
+                            "sortName": "Stevens, Cat",
+                            "disambiguation": "now known as Yusuf Islam",
+                            "url": "https://www.setlist.fm/setlists/cat-stevens-33c6d855.html"
+                        }
+                    },
+                    {
+                        "name": "Sometimes",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        }
+                    },
+                    {
+                        "name": "Can't Keep",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        }
+                    },
+                    {
+                        "name": "Sleeping by Myself"
+                    },
+                    {
+                        "name": "Without You"
+                    },
+                    {
+                        "name": "Longing to Belong",
+                        "info": "with Jonas Pap"
+                    },
+                    {
+                        "name": "The Needle and the Damage Done",
+                        "cover": {
+                            "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+                            "tmid": 736511,
+                            "name": "Neil Young",
+                            "sortName": "Young, Neil",
+                            "disambiguation": "Canadian singer, songwriter & musician",
+                            "url": "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+                        }
+                    },
+                    {
+                        "name": "I Am Mine",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        }
+                    },
+                    {
+                        "name": "Light Years",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        }
+                    },
+                    {
+                        "name": "Good Woman",
+                        "cover": {
+                            "mbid": "05755bf1-380c-487f-983f-d1a02401fa28",
+                            "tmid": 781302,
+                            "name": "Cat Power",
+                            "sortName": "Cat Power",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/cat-power-3bd6a498.html"
+                        }
+                    },
+                    {
+                        "name": "Far Behind"
+                    },
+                    {
+                        "name": "No Ceiling"
+                    },
+                    {
+                        "name": "Guaranteed"
+                    },
+                    {
+                        "name": "Rise"
+                    },
+                    {
+                        "name": "I'm Open",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        }
+                    },
+                    {
+                        "name": "Better Man",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        }
+                    },
+                    {
+                        "name": "Immortality",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        }
+                    },
+                    {
+                        "name": "Porch",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        }
+                    }
+                ]
+            },
+            {
+                "encore": 1,
+                "song": [
+                    {
+                        "name": "I'm So Tired",
+                        "cover": {
+                            "mbid": "233fc3f3-6de2-465c-985e-e721dbabbace",
+                            "tmid": 735130,
+                            "name": "Fugazi",
+                            "sortName": "Fugazi",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/fugazi-3d6bdff.html"
+                        }
+                    },
+                    {
+                        "name": "Elderly Woman Behind the Counter in a Small Town",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        }
+                    },
+                    {
+                        "name": "Imagine",
+                        "cover": {
+                            "mbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+                            "tmid": 946995,
+                            "name": "John Lennon",
+                            "sortName": "Lennon, John",
+                            "disambiguation": "Beatle",
+                            "url": "https://www.setlist.fm/setlists/john-lennon-33d68875.html"
+                        }
+                    },
+                    {
+                        "name": "\"Heroes\"",
+                        "cover": {
+                            "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+                            "tmid": 734626,
+                            "name": "David Bowie",
+                            "sortName": "Bowie, David",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/david-bowie-6bd6ee66.html"
+                        },
+                        "info": "Partial",
+                        "with": {
+                            "mbid": "458e91df-fd23-47d2-9d00-4a3db66caf19",
+                            "tmid": 734626,
+                            "name": "Red Limo String Quartet",
+                            "sortName": "Red Limo String Quartet",
+                            "url": "https://www.setlist.fm/setlists/red-limo-string-quartet-43d46b7b.html"
+                        }
+                    },
+                    {
+                        "name": "Just Breathe",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        },
+                        "with": {
+                            "mbid": "458e91df-fd23-47d2-9d00-4a3db66caf19",
+                            "tmid": 735836,
+                            "name": "Red Limo String Quartet",
+                            "sortName": "Red Limo String Quartet",
+                            "url": "https://www.setlist.fm/setlists/red-limo-string-quartet-43d46b7b.html"
+                        }
+                    },
+                    {
+                        "name": "Lukin",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        },
+                        "info": "also with Red Limo String Quartet",
+                        "with": {
+                            "mbid": "57f89cad-d2ef-48df-9119-8287b106716a",
+                            "tmid": 735836,
+                            "name": "Glen Hansard",
+                            "sortName": "Hansard, Glen",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/glen-hansard-5bd64f30.html"
+                        }
+                    },
+                    {
+                        "name": "Song of Good Hope",
+                        "cover": {
+                            "mbid": "57f89cad-d2ef-48df-9119-8287b106716a",
+                            "tmid": 967197,
+                            "name": "Glen Hansard",
+                            "sortName": "Hansard, Glen",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/glen-hansard-5bd64f30.html"
+                        },
+                        "info": "also with Red Limo String Quartet",
+                        "with": {
+                            "mbid": "57f89cad-d2ef-48df-9119-8287b106716a",
+                            "tmid": 967197,
+                            "name": "Glen Hansard",
+                            "sortName": "Hansard, Glen",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/glen-hansard-5bd64f30.html"
+                        }
+                    },
+                    {
+                        "name": "Falling Slowly",
+                        "cover": {
+                            "mbid": "ef70d917-ac0e-4b06-a5f6-10cb6ca21aad",
+                            "tmid": 1139200,
+                            "name": "The Swell Season",
+                            "sortName": "Swell Season, The",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/the-swell-season-53d64359.html"
+                        },
+                        "info": "also with Red Limo String Quartet",
+                        "with": {
+                            "mbid": "57f89cad-d2ef-48df-9119-8287b106716a",
+                            "tmid": 1139200,
+                            "name": "Glen Hansard",
+                            "sortName": "Hansard, Glen",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/glen-hansard-5bd64f30.html"
+                        }
+                    },
+                    {
+                        "name": "The End",
+                        "cover": {
+                            "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+                            "tmid": 735836,
+                            "name": "Pearl Jam",
+                            "sortName": "Pearl Jam",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/pearl-jam-23d6b80b.html"
+                        },
+                        "with": {
+                            "mbid": "458e91df-fd23-47d2-9d00-4a3db66caf19",
+                            "tmid": 735836,
+                            "name": "Red Limo String Quartet",
+                            "sortName": "Red Limo String Quartet",
+                            "url": "https://www.setlist.fm/setlists/red-limo-string-quartet-43d46b7b.html"
+                        }
+                    }
+                ]
+            },
+            {
+                "encore": 2,
+                "song": [
+                    {
+                        "name": "Rockin' in the Free World",
+                        "cover": {
+                            "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+                            "tmid": 736511,
+                            "name": "Neil Young",
+                            "sortName": "Young, Neil",
+                            "disambiguation": "Canadian singer, songwriter & musician",
+                            "url": "https://www.setlist.fm/setlists/neil-young-6bd6b662.html"
+                        }
+                    },
+                    {
+                        "name": "Hard Sun",
+                        "cover": {
+                            "mbid": "775541e8-a3da-4324-9609-6b91b484168f",
+                            "tmid": 967197,
+                            "name": "Indio",
+                            "sortName": "Indio",
+                            "url": "https://www.setlist.fm/setlists/indio-bd4a19a.html"
+                        },
+                        "with": {
+                            "mbid": "57f89cad-d2ef-48df-9119-8287b106716a",
+                            "tmid": 967197,
+                            "name": "Glen Hansard",
+                            "sortName": "Hansard, Glen",
+                            "disambiguation": "",
+                            "url": "https://www.setlist.fm/setlists/glen-hansard-5bd64f30.html"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "url": "https://www.setlist.fm/setlist/eddie-vedder/2017/afas-live-amsterdam-netherlands-3bfab8cc.html"
+}
